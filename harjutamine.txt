@@ -13,4 +13,4 @@ emojide kasutust[35]
 GitHub Pages: avalikes varamutes on võimalik hoiustada väikseid veebilehti, mida üldiselt kasutatakse blogideks või koodi dokumentatsiooniks[36]
 3D mudelite vaatamist otse brauseris
 Adobe Photoshopi PSD-failide vaatamist brauseris ning nende ajaloo võrdlemist
-
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
