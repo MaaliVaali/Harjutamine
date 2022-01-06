@@ -2,3 +2,15 @@ GitHub on Ameerika firma, mis pakub veebimajutusteenust tarkvaraarenduseks, kasu
 GitHubi teenus on suurelt jaolt tasuta, kuid GitHub pakub tasu eest teenust IT-professionaalidele, töörühmadele ja ettevõtetele.
 GitHubi tasuta teenust kasutatakse tihtipeale avatud lähtekoodiga tarkvara arenduseks.
 Saan allalaadida erinevaid koode, samuti saan ise koode üleslaadida.
+Lisaks sellele võimaldab GitHub ka:
+koodi dokumentatsiooni README-failide kaudu
+vigadest teatamist (kaasa arvatud soovitusi koodi parandamiseks ja uuteks funktsioonideks)
+projektidele viki loomist
+võimalust ise koodi parandada ning pakkuda selle kasutamist koodivaramu haldaja(te)le ("pull request")
+muudatuste ajalugu
+graafikuid ja muud statistikat iga projekti kohta
+emojide kasutust[35]
+GitHub Pages: avalikes varamutes on võimalik hoiustada väikseid veebilehti, mida üldiselt kasutatakse blogideks või koodi dokumentatsiooniks[36]
+3D mudelite vaatamist otse brauseris
+Adobe Photoshopi PSD-failide vaatamist brauseris ning nende ajaloo võrdlemist
+GitHub Inc. asutati Chris Wanstrathi, P. J. Hyetti, Tom Preston-Werneri ja Scott Chaconi poolt San Franciscos aastal 2007. GitHubi teenus muutus kättesaadavaks 2008. aasta veebruaris.
